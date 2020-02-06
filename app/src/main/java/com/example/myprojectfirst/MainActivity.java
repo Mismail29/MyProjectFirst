@@ -16,6 +16,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         int a = 10;
+        int b = 5;
+        int hasil = a* b;
+        System.out.println();
 
 
         Button btnPindah = findViewById(R.id.btn);
