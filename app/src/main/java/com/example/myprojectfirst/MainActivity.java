@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         int b = 5;
         int hasil = a* b;
         System.out.println();
+        int hasilnya = a+b;
 
 
         Button btnPindah = findViewById(R.id.btn);
